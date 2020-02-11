@@ -7,6 +7,9 @@ To run the whole anomaly detection pipeline follow the below steps:
 - run "anomaly_detection_benchmark.py" to detect anomalies in the data.
 - run "plot_anomaly_detection_charts.py" to plot the charts relative to the metrics of the detection results.  
 
+Project report:
+- https://davideliu.com/2019/10/26/log-analysis-for-anomaly-detection/
+
 References:
 - https://github.com/logpai
 - http://jmzhu.logpai.com/pub/slhe_issre2016.pdf
